@@ -1,8 +1,4 @@
-#### 一、Windows开发环境搭建
-```bash
-$ https://dl.bintray.com/groovy/maven/apache-groovy-sdk-3.0.2.zip # 下载安装包并配置好环境变量
-$ groovy -v                                                       # 查看groovy版本（验证groovy是否安装成功） 
-```
+#### [一、Windows开发环境搭建以及工程创建](https://github.com/firechiang/groovy-test/blob/master/docs/index.md)
 #### [二、Groovy 基础语法](https://github.com/firechiang/groovy-test/blob/master/src/com/firechiang/basic_grammar_1/01BasicGrammar.groovy)
 #### [三、Groovy 基础语法之String类型变量的定义方式](https://github.com/firechiang/groovy-test/blob/master/src/com/firechiang/basic_grammar_1/02BasicString.groovy)
 #### [四、Groovy 基础语法之String相关操作，Groovy的String支持Java String的所有方法还有很多新增特性](https://github.com/firechiang/groovy-test/blob/master/src/com/firechiang/basic_grammar_1/03BasicString.groovy)
@@ -22,5 +18,4 @@ $ groovy -v                                                       # 查看groovy
 #### [十八、Groovy XML生成相关](https://github.com/firechiang/groovy-test/blob/master/src/com/firechiang/basic_grammar_6/XmlObject02.groovy)
 #### [十九、Groovy 文件流操作相关](https://github.com/firechiang/groovy-test/blob/master/src/com/firechiang/basic_grammar_7/FileObject01.groovy)
 #### [二十、Groovy 对象读写相关（将对象写入文件，从文件读取对象）](https://github.com/firechiang/groovy-test/blob/master/src/com/firechiang/basic_grammar_7/FileObject02.groovy)
-#### 二十一、使用IDEA创建Groovy工程
-![image](https://github.com/firechiang/groovy-test/blob/master/images/groovy-project-create.png)
+
